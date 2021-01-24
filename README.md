@@ -11,22 +11,21 @@ The input taken as password is not displayed while being taken
 
 ## INSTRUCTION ON PROGRAM EXECUTION:
 
-Command to compile : ```make -f makefile.mk```
+Command to compile : ```make -f makefile.mk```  <br/>
 
-Command to run the program : ```./a.out```
+Command to run the program : ```./a.out```  <br/>
 
 
 ## ASSUMPTIONS :
 
-1. Employee considers sunday date not be taken as leave
-2. Employee applies leave for days in the future i.e., days before the present day aren't applied
-	while the same day can applied a leave
-3. Leave need not be a whole day. A half day leave can be taken.
+1. Employee considers sunday date not be taken as leave  <br/>
+2. Employee applies leave for days in the future i.e., days before the present day aren't applied while the same day can applied a leave  <br/>
+3. Leave need not be a whole day. A half day leave can be taken.  <br/>
 
 ## CONDITIONS UNDER WHICH CODE WORKS PROPERLY:
 
-1.Year be between 1900 and 9999 (Out of the limit is an invalid case)
-2.Employee login success (positive and negative cases work)
-3.Valid date input (positive and negative cases work)
-4.Number of days of leave within limit (positive and negative cases work)
-5.Employee considers dates for leave in the near future
+1.Year be between 1900 and 9999 (Out of the limit is an invalid case)  <br/>
+2.Employee login success (positive and negative cases work)  <br/>
+3.Valid date input (positive and negative cases work)  <br/>
+4.Number of days of leave within limit (positive and negative cases work)  <br/>
+5.Employee considers dates for leave in the near future  <br/>

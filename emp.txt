@@ -1,0 +1,29 @@
+Amanda ami@123 25 3 20 20 20.0 
+Ben ben@123 28 1 13.50 13 13
+Carmen car@123 24 2 12 20 12.50
+Doris dor@789 30 8.50 12 20 13
+Emma ema@345 32 10 20 14 13
+Farooq far@wer 45 13.8 16 14 20
+Gajanan gj@sdms 52 20 3 4 5
+Hema hemi@345 28 7 10 10 9
+Ivan iva@123 22 2 20 20 20
+James jam@opi 25 3 2.50 1 3
+Kelvin kel&wqer 32 4.5 20 20 12
+Louis lol@899 50 29 1.5 20 20
+Melvin mello 29 5 20 20 20
+Neelam isaac 25 3 12 13 11
+Osama laden 55 30 12 13 11
+Priya pidiya 29 3 14 14 14
+Quora qwerty 30 12 13 14 11
+Rakshita raksha 27 3 12 13 14
+Savita savi 26 1 12 13 20
+Tanviya tantoo 30 4 12 13 11
+Uma ummaa 27 2 13 14 12
+Vanita vanela 46 12 13 14 4
+Waleed wali 29 4 12 13 14
+Xahag awsde 30 6 20 20 20
+Yashas yasha 29 4 19.5 1.5 20
+Zaha aassd 30 9 20 20 20
+
+
+

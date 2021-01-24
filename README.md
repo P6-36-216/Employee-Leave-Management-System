@@ -10,21 +10,17 @@ The program folder contains client.c, server.c file, server.h file, makefile.mk 
 
 ## INSTRUCTION ON PROGRAM EXECUTION:
 
-Command to compile : 
-``` make -f makefile.mk
-```
-Command to run the program : 
-```./a.out
-```
+Command to compile : ``` make -f makefile.mk``` <br/>
+Command to run the program : ```./a.out``` <br/>
 
-ASSUMPTIONS :
+## ASSUMPTIONS :
 
 1. Employee considers sunday date not be taken as leave  <br/>
 2. Employee applies leave for days in the future i.e., days before the present day aren't applied
 	while the same day can applied a leave  <br/>
 3. Leave need not be a whole day. A half day leave can be taken.  <br/>
 
-CONDITIONS UNDER WHICH CODE WORKS PROPERLY:  <br/>
+## CONDITIONS UNDER WHICH CODE WORKS PROPERLY:  <br/>
 
 1.Year be between 1900 and 9999 (Out of the limit is an invalid case)  <br/>
 2.Employee login success (positive and negative cases work)  <br/>
